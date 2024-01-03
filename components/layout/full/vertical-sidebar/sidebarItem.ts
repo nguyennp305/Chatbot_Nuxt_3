@@ -34,12 +34,12 @@ const sidebarItem: menu[] = [
     },
     { header: 'utilities' },
     {
-        title: 'Typography',
+        title: 'LivingRoom',
         icon: TypographyIcon,
         to: '/ui/typography'
     },
     {
-        title: 'Shadow',
+        title: 'Kitchen',
         icon: CopyIcon,
         to: '/ui/shadow'
     },
